@@ -1,4 +1,4 @@
-#! /usr / bin /env  node 
+#! /usr/bin/env node 
 import inquirer from "inquirer";
 let basedCurrency :any = {
     USD : 1,
@@ -32,4 +32,9 @@ let toAmount   = basedCurrency[currencyType["To"]];
 let amount = currencyType["amount"];
 let baseValue =  amount/fromAmount;
 let convertedAmount = baseValue *toAmount ;
-console.log(convertedAmount)
+console.log(convertedAmount);
+
+
+
+
+

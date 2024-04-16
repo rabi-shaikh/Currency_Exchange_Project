@@ -1,6 +1,6 @@
 {
-  "name": "currency_exchange_project",
-  "version": "1.0.0",
+  "name": "rscurrency_exchange_project",
+  "version": "2.0.1",
   "description": "This is Simple Currency Exchange Project",
   "main": "index.js",
   "type": "module",
